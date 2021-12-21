@@ -24,7 +24,7 @@ body {
     box-shadow: 0 0.15rem 0.4rem rgba(0,0,0,0.8) !important;
 }
 
-.bg-motherboard-dev {
+.bg-img {
     background-image: url("../assets/img/publicbackgrounds/Earth-Bg-Img.jpg");
 }
 
@@ -53,7 +53,7 @@ body {
         margin-bottom: 1rem !important;
     }
 
-    .bg-motherboard-dev {
+    .bg-img {
         background-image: url("../assets/img/publicbackgrounds/Earth-Bg-Img.jpg");
     }
 }
