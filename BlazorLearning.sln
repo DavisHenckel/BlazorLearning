@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{1893D669-2E82-45CA-A503-BE2711A5B290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{45348517-46EC-4178-9D26-B19A48C5AABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{B4770E5F-59FF-447A-B8D9-D72FC7B14480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1893D669-2E82-45CA-A503-BE2711A5B290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1893D669-2E82-45CA-A503-BE2711A5B290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1893D669-2E82-45CA-A503-BE2711A5B290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1893D669-2E82-45CA-A503-BE2711A5B290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45348517-46EC-4178-9D26-B19A48C5AABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45348517-46EC-4178-9D26-B19A48C5AABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45348517-46EC-4178-9D26-B19A48C5AABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45348517-46EC-4178-9D26-B19A48C5AABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4770E5F-59FF-447A-B8D9-D72FC7B14480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4770E5F-59FF-447A-B8D9-D72FC7B14480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4770E5F-59FF-447A-B8D9-D72FC7B14480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4770E5F-59FF-447A-B8D9-D72FC7B14480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCF3A04-DDF9-472C-8166-71093F75CE27}
+	EndGlobalSection
+EndGlobal
