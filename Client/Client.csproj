@@ -17,7 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="assets\img\publicbackgrounds\" />
+    <None Include="wwwroot\assets\img\publicbackgrounds\bg-motherboard.jpg" />
+    <None Include="wwwroot\assets\img\publicbackgrounds\Earth-Bg-Img.jpg" />
   </ItemGroup>
 
 </Project>
