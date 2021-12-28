@@ -21,4 +21,8 @@
     <None Include="wwwroot\assets\img\publicbackgrounds\Earth-Bg-Img.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\img\other\" />
+  </ItemGroup>
+
 </Project>
